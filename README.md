@@ -70,5 +70,8 @@ We aim to bring this to 100% so that we can utilize Generative Answers' OOB supp
 
 Ultimately, our goal is to evolve Abby into a trusted digital career assistant, capable of understanding each user’s unique goals and guiding them toward their next professional milestone with PeopleCert.
 
+NOTE: The solution includes Premium Dataverse actions in Power Automate, AI Builder, etc. 
+If you want to integrate it and try things out on another tenant, you need to update all actions with your own, new connection references.
+
 📩 Contact
 For more information or collaboration inquiries, please contact the PeopleCert MSFT Business Application team at MicrosoftApplicationTeam@peoplecert.org.
