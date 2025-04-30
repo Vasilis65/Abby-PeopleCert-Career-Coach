@@ -8,7 +8,7 @@ the customer experience by offering dynamic, personalized guidance throughout a 
 
 Abby is developed using Microsoft Copilot Studio, utilizing the classic orchestration mode (not the generative orchestration preview), 
 which ensures greater customization, predictability, and control over the conversational flow. 
-This decision reflects our intent to move towards a production-grade AI solution that can be reliably extended, 
+This decision reflects our intent to move towards a production-grade AI solution that can be reliably extended,  
 tested, and deployed to external users after further development and UAT phases.
 
 🧠 Key Architecture & Functionality
