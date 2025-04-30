@@ -1,3 +1,6 @@
+Abby - Career Coach & Certifications Assistant for PeopleCert
+
+(Read this in Raw mode)
 📌 Overview
 
 Abby is an AI Agent designed to assist users in exploring and pursuing certifications offered by PeopleCert. 
